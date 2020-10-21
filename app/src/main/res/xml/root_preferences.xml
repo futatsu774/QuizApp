@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/Main">
+
+        <Preference
+            app:title="Setting"
+            app:key="setting"
+            app:summary="Dito ilagay details ng settings"/>
+
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/AboutUS">
+
+        <Preference
+            app:key="@string/AboutUS"
+            app:title="@string/about_us"
+            app:summary="dito lagay ung laman ng about us"/>
+
+        <SwitchPreferenceCompat
+
+            app:key="attachment"
+            app:summaryOff="Light Mode"
+            app:summaryOn="Dark Mode"
+            app:title="Setting Theme" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

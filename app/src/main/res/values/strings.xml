@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_myquiz">My Quizzes</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="text_home">Categories</string>
+
+    <!-- Settings Titles -->
+    <string name="Main">Main Settings</string>
+    <string name="AboutUS">About Us</string>
+
+
+    <!-- About US -->
+    <string name="about_us">About Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="language1">Language1</string>
+    <string name="language2">Language2</string>
+    <string name="language3">Language3</string>
+
+</resources>
